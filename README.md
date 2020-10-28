@@ -1,2 +1,2 @@
 # checksum
-modbus crc-16 checksum
+golang modbus crc-16 checksum
